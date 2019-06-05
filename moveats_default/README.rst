@@ -1,4 +1,4 @@
-.. |customer| replace:: scaffolding
+.. |customer| replace:: moveats
 
 .. |company| replace:: jeo Soft
 
