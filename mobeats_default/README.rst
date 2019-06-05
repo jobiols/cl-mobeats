@@ -1,4 +1,4 @@
-.. |customer| replace:: moveats
+.. |customer| replace:: mobeats
 
 .. |company| replace:: jeo Soft
 

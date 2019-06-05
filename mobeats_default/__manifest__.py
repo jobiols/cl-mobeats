@@ -18,11 +18,11 @@
 #
 # -----------------------------------------------------------------------------
 {
-    'name': 'moveats',
+    'name': 'mobeats',
     'version': '11.0.0.0.0',
     'license': 'Other OSI approved licence',
     'category': 'Default Application',
-    'summary': 'Customization for moveats',
+    'summary': 'Customization for mobeats',
     'author': 'jeo Software',
     'depends': [
         # basic applications
@@ -52,7 +52,7 @@
     'port': '8069',
 
     'repos': [
-        {'usr': 'jobiols', 'repo': 'cl-moveats', 'branch': '11.0'},
+        {'usr': 'jobiols', 'repo': 'cl-mobeats', 'branch': '11.0'},
         {'usr': 'jobiols', 'repo': 'odoo-addons', 'branch': '11.0'},
         {'usr': 'jobiols', 'repo': 'rafi16jan-backend-theme',
          'branch': '11.0'},
