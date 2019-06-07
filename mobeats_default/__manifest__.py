@@ -70,6 +70,7 @@
         {'usr': 'jobiols', 'repo': 'adhoc-sale', 'branch': '11.0'},
         {'usr': 'jobiols', 'repo': 'adhoc-odoo-support', 'branch': '11.0'},
         {'usr': 'jobiols', 'repo': 'adhoc-product', 'branch': '11.0'},
+        {'usr': 'jobiols', 'repo': 'adhoc-partner', 'branch': '11.0'},
         {'usr': 'jobiols', 'repo': 'oca-partner-contact', 'branch': '11.0'},
         {'usr': 'jobiols', 'repo': 'oca-web', 'branch': '11.0'},
         {'usr': 'jobiols', 'repo': 'oca-server-tools', 'branch': '11.0'},
