@@ -34,6 +34,7 @@
 
         # utilitarios adicionales
         'backend_theme',
+        'base_currency_inverse_rate',
     ],
     'data': [
     ],
